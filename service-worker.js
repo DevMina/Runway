@@ -1,4 +1,4 @@
-const CACHE_NAME = 'runway-cache-v1';
+const CACHE_NAME = 'runway-cache-v2';
 const ASSETS = [
   './',
   './index.html',
